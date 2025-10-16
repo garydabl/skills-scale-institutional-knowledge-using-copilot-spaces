@@ -119,10 +119,21 @@ Every project maintains these essential documents:
 ## Getting Started
 
 ### For New Team Members
-1. Review this overview and the [Project Management Overview](octoacme-project-management-overview.md)
-2. Understand your [role and responsibilities](octoacme-roles-and-personas.md)
-3. Familiarize yourself with [communication processes](octoacme-risks-and-communication.md)
-4. Join relevant standups and weekly syncs
+1. **Day 1: Initial Setup**
+   - Review this overview and the [Project Management Overview](octoacme-project-management-overview.md)
+   - Complete the [New Team Member Onboarding Checklist](templates/onboarding-checklist.md)
+   - Set up development environment following team-specific setup guides
+   
+2. **Week 1: Role Alignment**
+   - Understand your [role and responsibilities](octoacme-roles-and-personas.md)
+   - Schedule 1:1 meetings with your manager and key team members
+   - Join relevant Slack channels and distribution lists
+   
+3. **Week 1-2: Process Integration**
+   - Familiarize yourself with [communication processes](octoacme-risks-and-communication.md)
+   - Join relevant standups and weekly syncs
+   - Shadow existing team members in meetings and code reviews
+   - Complete first small task/bug fix to learn the development workflow
 
 ### For Project Initiation
 1. Start with [Project Initiation Guide](octoacme-project-initiation.md)
@@ -134,6 +145,7 @@ Every project maintains these essential documents:
 
 This comprehensive process is detailed across our documentation:
 
+### Core Process Documents
 - **[Project Management Overview](octoacme-project-management-overview.md)**: Core principles and high-level process
 - **[Roles and Personas](octoacme-roles-and-personas.md)**: Detailed role definitions and responsibilities
 - **[Project Initiation](octoacme-project-initiation.md)**: How to start new projects
@@ -142,6 +154,20 @@ This comprehensive process is detailed across our documentation:
 - **[Release & Deployment](octoacme-release-and-deployment.md)**: Production deployment standards
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)**: Risk handling and stakeholder communication
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)**: Learning and improvement processes
+
+### Templates and Checklists
+*Standardized templates to ensure consistency and efficiency*
+
+#### Team Management
+- **[New Team Member Onboarding Checklist](templates/onboarding-checklist.md)**: Step-by-step onboarding process for new team members
+- **[Meeting Notes Template](templates/meeting-notes-template.md)**: Consistent meeting documentation format
+- **[Sprint Retrospective Template](templates/sprint-retrospective-template.md)**: Structured retrospective facilitation guide
+
+#### Development Process
+- **[Issue Tracking Template](templates/issue-tracking-template.md)**: Standardized format for reporting and tracking issues
+- **[Code Review Checklist](templates/code-review-checklist.md)**: Comprehensive quality gates for code review and deployment
+
+*These templates are designed to be copied and customized for specific projects while maintaining consistency across teams.*
 
 ---
 

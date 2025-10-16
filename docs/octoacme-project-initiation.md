@@ -35,6 +35,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Team members identified and onboarding planned (use [Onboarding Checklist](templates/onboarding-checklist.md))
+- [ ] Initial meeting scheduled using [Meeting Notes Template](templates/meeting-notes-template.md)
 
 ## Decision Gate
 Move to planning when:
